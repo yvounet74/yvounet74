@@ -1,7 +1,7 @@
 
 
 - 🌱 I’m currently learning ...
-on bit che
+on software bit-che
 
 <!---
 yvounet74/yvounet74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
